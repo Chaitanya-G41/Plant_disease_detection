@@ -1,0 +1,24 @@
+# Datasets (too large for GitHub — use Google Drive)
+data/
+
+# Model weights
+models/*.pt
+models/*.pth
+models/*.bin
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional (recommended)
+*.ipynb

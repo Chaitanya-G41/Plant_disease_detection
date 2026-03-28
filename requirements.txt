@@ -1,0 +1,13 @@
+torch
+torchvision
+timm
+transformers
+faiss-cpu
+sentence-transformers
+streamlit
+Pillow
+scikit-learn
+matplotlib
+numpy
+pandas
+opencv-python
